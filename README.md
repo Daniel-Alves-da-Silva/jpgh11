@@ -20,7 +20,11 @@
      <a href="https://www.instagram.com/daniel.alves909/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href = "mailto:alves.danielsilva90@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/daniel-alves-863b4a185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+ 
+ 
+  ![Snake animation](https://github.com/Daniel-Alves-da-Silva/jpgh11/Daniel-Alves-da-Silva/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>
   
   
   <!---
